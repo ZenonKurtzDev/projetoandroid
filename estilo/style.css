@@ -213,6 +213,12 @@ aside > ul{
       columns: 2;
 }
 
+a{
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
 footer > p{
     background-color: var(--cor5);
     color: white;

@@ -219,6 +219,11 @@ a{
     font-weight: bolder;
 }
 
+a:hover{
+    text-decoration: underline;
+}
+
+
 footer > p{
     background-color: var(--cor5);
     color: white;
